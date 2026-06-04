@@ -1,12 +1,27 @@
-💫 Hi 👋, I'm Swasti Chikara
-A passionate Backend Developer || Node.js Engineer || REST API Developer from India
-Email Me 👉 ✉️ swastichikara1234@gmail.com For Collaboration/Project or Anything Else. 😊😊
+<h1 align="center">Hi 👋, I'm Swasti Chikara</h1>
+<h3 align="center">Backend Developer · Node.js Engineer · REST API & ERP Systems Specialist</h3>
 
-🔭 I'm currently working on: AuthShield — a production-ready backend authentication system built with Node.js, TypeScript, Prisma and MySQL
-🌱 I'm currently learning: TypeScript advanced patterns, Prisma ORM, scalable API architecture
-👯 I'm looking to collaborate on: Backend projects involving REST APIs, authentication systems, or database-heavy applications
-🤔 I'm looking for help with: System design and scaling backend services
-💬 Ask me about: Node.js, Express.js, JWT authentication, RBAC, MySQL, REST API design, production debugging
+<p align="center">
+  <a href="mailto:swastichikara1234@gmail.com">✉️ swastichikara1234@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/swasti-c-00728a2822e">LinkedIn</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Backend Developer with **2+ years of professional experience** building scalable ERP/MRP platforms, RESTful APIs, and real-time dashboard applications. I've shipped production-grade systems across logistics, manufacturing, and enterprise domains — from designing 9-module ERP backends from scratch to optimizing MySQL queries for 20–30% performance gains.
+
+I care about clean architecture, maintainable code, and systems that actually hold up under real-world load.
+
+---
+
+### 🔭 Currently Working On
+
+**AuthShield** — a production-ready authentication system built with Node.js, TypeScript, Prisma, and MySQL.
+Covers JWT auth, RBAC, session management, and secure API design patterns.
+
+---
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swasti-c-00728a2822e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swastichikara1234@gmail.com) 
